@@ -2,7 +2,8 @@ package = "cunn"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/cunn.git",
+   url = "git://github.com/ashwin2802/cunn.git",
+   branch = "cuda11"
 }
 
 description = {
